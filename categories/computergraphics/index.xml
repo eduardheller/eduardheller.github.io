@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computergraphics on eduardheller</title>
+    <link>https://eduardheller.github.io/categories/computergraphics/</link>
+    <description>Recent content in Computergraphics on eduardheller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eduardheller.github.io/categories/computergraphics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Replay-System in Unity</title>
+      <link>https://eduardheller.github.io/projects/replaysystem/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/replaysystem/</guid>
+      <description>https://github.com/eduardheller/EEPacketInjector</description>
+    </item>
+    
+    <item>
+      <title>GRACE Visualization Software</title>
+      <link>https://eduardheller.github.io/projects/gracevisualization/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/gracevisualization/</guid>
+      <description>During my first semester I had to work on a visualization software. We dediced to go with visualiating the GRACE satellite data to show changes to the gravity. We used OpenGL, Vis and Java to implement this. You can find the source code here: https://github.com/eduardheller/GRACEVisualization.
+Your browser does not support the video tag.  </description>
+    </item>
+    
+    <item>
+      <title>Lindenmayer-Systems</title>
+      <link>https://eduardheller.github.io/projects/lindenmayer-systems/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/lindenmayer-systems/</guid>
+      <description>Nothing to see here&amp;hellip; Move along! https://github.com/eduardheller/Lindenmayer-System</description>
+    </item>
+    
+    <item>
+      <title>Battle of the Throne</title>
+      <link>https://eduardheller.github.io/projects/battle-of-the-throne/</link>
+      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/battle-of-the-throne/</guid>
+      <description>Battle of the Throne is a 3D-Towerdefense game made in C# and OpenGL. I wanted to practice to write some shaders and write a GUI-System on top of OpenGL. I was focusing on a stack based GUI-System to only have the top window focused on interactions. https://github.com/eduardheller/towerdefense/tree/master/TowerDefense</description>
+    </item>
+    
+    <item>
+      <title>Image Processing Software</title>
+      <link>https://eduardheller.github.io/projects/imageprocessor/</link>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/imageprocessor/</guid>
+      <description>Nothing to see here&amp;hellip; Move along! https://github.com/eduardheller/ImageProcessor</description>
+    </item>
+    
+    <item>
+      <title>Ekkehardt Fighters</title>
+      <link>https://eduardheller.github.io/projects/ekkehart/</link>
+      <pubDate>Sun, 25 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/ekkehart/</guid>
+      <description>https://github.com/eduardheller/Ekkehardt2D</description>
+    </item>
+    
+    <item>
+      <title>Eden Eternal Packet Sender</title>
+      <link>https://eduardheller.github.io/projects/edeneternal/</link>
+      <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/edeneternal/</guid>
+      <description>https://github.com/eduardheller/EEPacketInjector</description>
+    </item>
+    
+  </channel>
+</rss>

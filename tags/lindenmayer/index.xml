@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lindenmayer on eduardheller</title>
+    <link>https://eduardheller.github.io/tags/lindenmayer/</link>
+    <description>Recent content in lindenmayer on eduardheller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eduardheller.github.io/tags/lindenmayer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lindenmayer-Systems</title>
+      <link>https://eduardheller.github.io/projects/lindenmayer-systems/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/lindenmayer-systems/</guid>
+      <description>Nothing to see here&amp;hellip; Move along! https://github.com/eduardheller/Lindenmayer-System</description>
+    </item>
+    
+  </channel>
+</rss>
