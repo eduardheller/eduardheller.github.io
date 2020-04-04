@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on eduardheller</title>
+    <title>Categories on eduard heller</title>
     <link>https://eduardheller.github.io/categories/</link>
-    <description>Recent content in Categories on eduardheller</description>
+    <description>Recent content in Categories on eduard heller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
@@ -26,6 +26,24 @@
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/categories/visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virtual reality</title>
+      <link>https://eduardheller.github.io/categories/virtual-reality/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/categories/virtual-reality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vr</title>
+      <link>https://eduardheller.github.io/categories/vr/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/categories/vr/</guid>
       <description></description>
     </item>
     
