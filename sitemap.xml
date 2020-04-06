@@ -33,12 +33,17 @@
   </url>
   
   <url>
-    <loc>https://eduardheller.github.io/tags/grace/</loc>
+    <loc>https://eduardheller.github.io/projects/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eduardheller.github.io/projects/</loc>
+    <loc>https://eduardheller.github.io/tags/replay-system/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eduardheller.github.io/categories/replay-system/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,17 +53,27 @@
   </url>
   
   <url>
+    <loc>https://eduardheller.github.io/tags/serious-games/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eduardheller.github.io/categories/serious-games/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eduardheller.github.io/tags/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eduardheller.github.io/categories/visualization/</loc>
+    <loc>https://eduardheller.github.io/tags/virtual-reality/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eduardheller.github.io/tags/visualization/</loc>
+    <loc>https://eduardheller.github.io/categories/virtual-reality/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,12 +83,12 @@
   </url>
   
   <url>
-    <loc>https://eduardheller.github.io/tags/virtual-reality/</loc>
+    <loc>https://eduardheller.github.io/categories/visualization/</loc>
     <lastmod>2019-02-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eduardheller.github.io/categories/virtual-reality/</loc>
+    <loc>https://eduardheller.github.io/tags/visualization/</loc>
     <lastmod>2019-02-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -85,6 +100,11 @@
   <url>
     <loc>https://eduardheller.github.io/categories/vr/</loc>
     <lastmod>2019-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eduardheller.github.io/tags/grace/</loc>
+    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>

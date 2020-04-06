@@ -17,7 +17,7 @@
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/replaysystem/</guid>
-      <description>https://github.com/eduardheller/EEPacketInjector</description>
+      <description>During my master thesis I developed a replay system specialized in a Multi-User VR-Environment. I used an already existing 3D-scenario from my work as a research assistent. The System is non-deterministic, which records the game states in a fixed interval and interpolates between them, other than just recording the inputs and simulating the game. The System also supports two optimization algorithms known from Quake 3 and Braid. You can see full details of my integration in my blog post.</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/epicsave/</guid>
-      <description>   </description>
+      <description>During my work as a research assistant, we developed a virtual reality framework as a team of six people. My areas of responsibility were the architecture, design and implementation of the Virtual Reality interactions and network programming of the framework.</description>
     </item>
     
     <item>

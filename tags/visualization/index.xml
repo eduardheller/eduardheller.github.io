@@ -6,19 +6,10 @@
     <description>Recent content in visualization on eduard heller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://eduardheller.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Replay-System in Unity</title>
-      <link>https://eduardheller.github.io/projects/replaysystem/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/projects/replaysystem/</guid>
-      <description>https://github.com/eduardheller/EEPacketInjector</description>
-    </item>
     
     <item>
       <title>Multi-User Virtual Reality Prototype in Unity</title>
@@ -26,7 +17,7 @@
       <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/epicsave/</guid>
-      <description>   </description>
+      <description>During my work as a research assistant, we developed a virtual reality framework as a team of six people. My areas of responsibility were the architecture, design and implementation of the Virtual Reality interactions and network programming of the framework.</description>
     </item>
     
     <item>

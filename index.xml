@@ -26,7 +26,7 @@
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/replaysystem/</guid>
-      <description>https://github.com/eduardheller/EEPacketInjector</description>
+      <description>During my master thesis I developed a replay system specialized in a Multi-User VR-Environment. I used an already existing 3D-scenario from my work as a research assistent. The System is non-deterministic, which records the game states in a fixed interval and interpolates between them, other than just recording the inputs and simulating the game. The System also supports two optimization algorithms known from Quake 3 and Braid. You can see full details of my integration in my blog post.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/epicsave/</guid>
-      <description>   </description>
+      <description>During my work as a research assistant, we developed a virtual reality framework as a team of six people. My areas of responsibility were the architecture, design and implementation of the Virtual Reality interactions and network programming of the framework.</description>
     </item>
     
     <item>
@@ -90,7 +90,7 @@
       
       <guid>https://eduardheller.github.io/about/</guid>
       <description>Hi, I’m Eduard Heller. I’m a software engineer based in Hannover, Germany. I love computer graphics and experiment with new technologies.
-Contact:   Name: Eduard Heller phone: +49 1590/ 1368555 e-mail: eduard.heller.89@gmail.com blog: www.eduardheller.com/blog/ github: https://github.com/eduardheller/ linkedIn: https://www.linkedin.com/in/eduard-heller-3a56a31a6/ xing: www.xing.com/profile/Eduard_Heller3   Education  2016-2020 M.Sc, Applied Computer Science; Hochschule Hannover Thesis title: Replay-Systems in a Multi-User Virtual Reality-Environment 2013-2016 M.Sc, Applied Computer Science; Hochschule Hannover Thesis title: Stochastic Lindenmayer systems for representation of plants 2010-2013 B.</description>
+Contact:   Name: Eduard Heller phone: +49 1590/ 1368555 e-mail: eduard.heller.89@gmail.com blog: www.eduardheller.com/posts/ github: https://github.com/eduardheller/ linkedIn: https://www.linkedin.com/in/eduard-heller-3a56a31a6/ xing: www.xing.com/profile/Eduard_Heller3   Education  2016-2020 M.Sc, Applied Computer Science; Hochschule Hannover Thesis title: Replay-Systems in a Multi-User Virtual Reality-Environment 2013-2016 B.Sc, Applied Computer Science; Hochschule Hannover Thesis title: Stochastic Lindenmayer systems for representation of plants 2010-2013 B.</description>
     </item>
     
   </channel>

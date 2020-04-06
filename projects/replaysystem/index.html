@@ -11,10 +11,10 @@
 
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Replay-System in Unity"/>
-<meta name="twitter:description" content="This is Software I made to show the possibilites send custom packets"/>
+<meta name="twitter:description" content="The Replay-System that can replay games in a multi-user environment was developed in C#, Unity"/>
 
     <meta property="og:title" content="Replay-System in Unity" />
-<meta property="og:description" content="This is Software I made to show the possibilites send custom packets" />
+<meta property="og:description" content="The Replay-System that can replay games in a multi-user environment was developed in C#, Unity" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://eduardheller.github.io/projects/replaysystem/" />
 <meta property="article:published_time" content="2020-03-26T00:00:00+00:00" />
@@ -103,8 +103,13 @@
       <h1>Replay-System in Unity</h1>
     </header>
 
-    <p><a href="https://github.com/eduardheller/EEPacketInjector">https://github.com/eduardheller/EEPacketInjector</a></p>
-<p><img src="https://eduardheller.github.io/img/1.png" alt="Example image"></p>
+    
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/3yOkDjw5pls" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>During my master thesis I developed a replay system specialized in a Multi-User VR-Environment. I used an already existing 3D-scenario from my work as a research assistent.
+The System is non-deterministic, which records the game states in a fixed interval and interpolates between them, other than just recording the inputs and simulating the game. The System also supports two optimization algorithms known from <a href="https://www.jfedor.org/quake3/">Quake 3</a> and <a href="https://www.gdcvault.com/play/1012210/The-Implementation-of-Rewind-in">Braid</a>. You can see full details of my integration in my blog post. The Replay-System features also multiple timelines, so you can record several alternativ scenarios in one file.</p>
 
   </article>
 </section>

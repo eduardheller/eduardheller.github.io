@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>virtual reality on eduard heller</title>
-    <link>https://eduardheller.github.io/categories/virtual-reality/</link>
-    <description>Recent content in virtual reality on eduard heller</description>
+    <title>serious games on eduard heller</title>
+    <link>https://eduardheller.github.io/categories/serious-games/</link>
+    <description>Recent content in serious games on eduard heller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://eduardheller.github.io/categories/virtual-reality/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://eduardheller.github.io/categories/serious-games/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://eduardheller.github.io/projects/replaysystem/</guid>
       <description>During my master thesis I developed a replay system specialized in a Multi-User VR-Environment. I used an already existing 3D-scenario from my work as a research assistent. The System is non-deterministic, which records the game states in a fixed interval and interpolates between them, other than just recording the inputs and simulating the game. The System also supports two optimization algorithms known from Quake 3 and Braid. You can see full details of my integration in my blog post.</description>
-    </item>
-    
-    <item>
-      <title>Multi-User Virtual Reality Prototype in Unity</title>
-      <link>https://eduardheller.github.io/projects/epicsave/</link>
-      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/projects/epicsave/</guid>
-      <description>During my work as a research assistant, we developed a virtual reality framework as a team of six people. My areas of responsibility were the architecture, design and implementation of the Virtual Reality interactions and network programming of the framework.</description>
     </item>
     
   </channel>
