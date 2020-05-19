@@ -17,7 +17,7 @@
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/imageprocessor/</guid>
-      <description>Nothing to see here&amp;hellip; Move along! https://github.com/eduardheller/ImageProcessor</description>
+      <description>This software produces several image effects and process various known algorithms, such as canny-edge or hough-transformations, on an image. Source code: https://github.com/eduardheller/ImageProcessor</description>
     </item>
     
   </channel>

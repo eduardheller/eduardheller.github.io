@@ -26,7 +26,7 @@
       <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/epicsave/</guid>
-      <description>During my work as a research assistant, we developed a virtual reality framework as a team of six people. My areas of responsibility were the architecture, design and implementation of the Virtual Reality interactions and network programming of the framework.</description>
+      <description>During my work as a research assistant, we developed a virtual reality framework as a team of six people. My areas of responsibility were the architecture, design and implementation of the virtual reality interactions and network programming of the framework.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/gracevisualization/</guid>
-      <description>During my first semester I had to work on a visualization software. We dediced to go with visualiating the GRACE satellite data to show changes to the gravity. We used OpenGL, Vis and Java to implement this. You can find the source code here: https://github.com/eduardheller/GRACEVisualization.</description>
+      <description>This software visualizes the GRACE satellite data to show mass changes on earth. The technologies I used were OpenGL and Vis with Java. It supports animations based on interpolations of the changes. Source code: https://github.com/eduardheller/GRACEVisualization.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/lindenmayer-systems/</guid>
-      <description>Nothing to see here&amp;hellip; Move along! https://github.com/eduardheller/Lindenmayer-System</description>
+      <description>During my bachelor thesis I developed a software to generate and visualize plants with stochastic Lindenmayer Systems. I used OpenGL, C++ and QT for this. It also supports simple sinus wave animation of plants and shadow mapping. Source code: https://github.com/eduardheller/Lindenmayer-System</description>
     </item>
     
     <item>
@@ -53,7 +53,9 @@
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/battle-of-the-throne/</guid>
-      <description>Battle of the Throne is a 3D-Towerdefense game made in C# and OpenGL. I wanted to practice to write some shaders and write a GUI-System on top of OpenGL. I was focusing on a stack based GUI-System to only have the top window focused on interactions. https://github.com/eduardheller/towerdefense/tree/master/TowerDefense</description>
+      <description>Battle of the Thrones is a 3D towerdefense game made in C# and OpenGL. I wrote my own engine and shaders to acomplish this. It supports:
+ shadow mapping/cascade shadow mapping view frustum culling water refraction/reflection stack based GUI instance based particles distance field text rendering &amp;hellip;  
+Source code: https://github.com/eduardheller/towerdefense/tree/master/TowerDefense</description>
     </item>
     
     <item>
@@ -62,16 +64,7 @@
       <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/imageprocessor/</guid>
-      <description>Nothing to see here&amp;hellip; Move along! https://github.com/eduardheller/ImageProcessor</description>
-    </item>
-    
-    <item>
-      <title>Eden Eternal Packet Sender</title>
-      <link>https://eduardheller.github.io/projects/edeneternal/</link>
-      <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/projects/edeneternal/</guid>
-      <description>https://github.com/eduardheller/EEPacketInjector</description>
+      <description>This software produces several image effects and process various known algorithms, such as canny-edge or hough-transformations, on an image. Source code: https://github.com/eduardheller/ImageProcessor</description>
     </item>
     
   </channel>

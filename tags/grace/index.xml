@@ -17,16 +17,7 @@
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/gracevisualization/</guid>
-      <description>During my first semester I had to work on a visualization software. We dediced to go with visualiating the GRACE satellite data to show changes to the gravity. We used OpenGL, Vis and Java to implement this. You can find the source code here: https://github.com/eduardheller/GRACEVisualization.</description>
-    </item>
-    
-    <item>
-      <title>Eden Eternal Packet Sender</title>
-      <link>https://eduardheller.github.io/projects/edeneternal/</link>
-      <pubDate>Wed, 20 Jun 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/projects/edeneternal/</guid>
-      <description>https://github.com/eduardheller/EEPacketInjector</description>
+      <description>This software visualizes the GRACE satellite data to show mass changes on earth. The technologies I used were OpenGL and Vis with Java. It supports animations based on interpolations of the changes. Source code: https://github.com/eduardheller/GRACEVisualization.</description>
     </item>
     
   </channel>

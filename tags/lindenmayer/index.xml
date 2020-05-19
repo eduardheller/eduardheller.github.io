@@ -17,7 +17,7 @@
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/lindenmayer-systems/</guid>
-      <description>Nothing to see here&amp;hellip; Move along! https://github.com/eduardheller/Lindenmayer-System</description>
+      <description>During my bachelor thesis I developed a software to generate and visualize plants with stochastic Lindenmayer Systems. I used OpenGL, C++ and QT for this. It also supports simple sinus wave animation of plants and shadow mapping. Source code: https://github.com/eduardheller/Lindenmayer-System</description>
     </item>
     
   </channel>

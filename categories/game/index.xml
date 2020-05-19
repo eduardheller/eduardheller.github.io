@@ -17,7 +17,9 @@
       <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/projects/battle-of-the-throne/</guid>
-      <description>Battle of the Throne is a 3D-Towerdefense game made in C# and OpenGL. I wanted to practice to write some shaders and write a GUI-System on top of OpenGL. I was focusing on a stack based GUI-System to only have the top window focused on interactions. https://github.com/eduardheller/towerdefense/tree/master/TowerDefense</description>
+      <description>Battle of the Thrones is a 3D towerdefense game made in C# and OpenGL. I wrote my own engine and shaders to acomplish this. It supports:
+ shadow mapping/cascade shadow mapping view frustum culling water refraction/reflection stack based GUI instance based particles distance field text rendering &amp;hellip;  
+Source code: https://github.com/eduardheller/towerdefense/tree/master/TowerDefense</description>
     </item>
     
   </channel>
