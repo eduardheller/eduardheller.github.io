@@ -6,19 +6,10 @@
     <description>Recent content on eduard heller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Apr 2020 12:22:41 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://eduardheller.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>My First Posts</title>
-      <link>https://eduardheller.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 01 Apr 2020 12:22:41 +0200</pubDate>
-      
-      <guid>https://eduardheller.github.io/posts/my-first-post/</guid>
-      <description>Hello folks</description>
-    </item>
     
     <item>
       <title>Replay-System in Unity</title>
