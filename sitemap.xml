@@ -1,154 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://eduardheller.github.io/categories/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/categories/computergraphics/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/tags/computergraphics/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/projects/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eduardheller.github.io/tags/replay-system/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eduardheller.github.io/categories/replay-system/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/projects/replaysystem/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eduardheller.github.io/tags/serious-games/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eduardheller.github.io/categories/serious-games/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/tags/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/tags/virtual-reality/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/categories/virtual-reality/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://eduardheller.github.io/categories/visualization/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/tags/visualization/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/tags/vr/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/categories/vr/</loc>
+    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eduardheller.github.io/projects/epicsave/</loc>
     <lastmod>2019-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eduardheller.github.io/categories/visualization/</loc>
-    <lastmod>2019-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eduardheller.github.io/tags/visualization/</loc>
-    <lastmod>2019-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eduardheller.github.io/tags/vr/</loc>
-    <lastmod>2019-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eduardheller.github.io/categories/vr/</loc>
-    <lastmod>2019-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/tags/grace/</loc>
     <lastmod>2017-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://eduardheller.github.io/categories/grace/</loc>
+    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eduardheller.github.io/projects/gracevisualization/</loc>
     <lastmod>2017-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/categories/lindenmayer/</loc>
     <lastmod>2017-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/tags/lindenmayer/</loc>
     <lastmod>2017-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/projects/lindenmayer-systems/</loc>
     <lastmod>2017-09-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/projects/battle-of-the-throne/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/categories/game/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/tags/game/</loc>
     <lastmod>2017-08-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/categories/image/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/tags/image/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/projects/imageprocessor/</loc>
     <lastmod>2016-01-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eduardheller.github.io/about/</loc>
   </url>
-  
 </urlset>

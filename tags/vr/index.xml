@@ -6,10 +6,15 @@
     <description>Recent content in vr on eduard heller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Feb 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://eduardheller.github.io/tags/vr/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardheller.github.io/tags/vr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replay-System in Unity</title>
+      <link>https://eduardheller.github.io/projects/replaysystem/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/replaysystem/</guid>
+      <description>During my master thesis I developed a replay system specialized in a Multi-User VR-Environment. I used an already existing 3D-scenario from my work as a research assistent. The System is non-deterministic, which records the game states in a fixed interval and interpolates between them, other than just recording the inputs and simulating the game. The System also supports two optimization algorithms known from Quake 3 and Braid. The Replay-System features also multiple timelines, so you can record several alternativ scenarios in one file.</description>
+    </item>
     
     <item>
       <title>Multi-User Virtual Reality Prototype in Unity</title>

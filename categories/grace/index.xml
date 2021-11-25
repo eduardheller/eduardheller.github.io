@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>grace on eduard heller</title>
-    <link>https://eduardheller.github.io/tags/grace/</link>
+    <link>https://eduardheller.github.io/categories/grace/</link>
     <description>Recent content in grace on eduard heller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardheller.github.io/tags/grace/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardheller.github.io/categories/grace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GRACE Visualization Software</title>
       <link>https://eduardheller.github.io/projects/gracevisualization/</link>
