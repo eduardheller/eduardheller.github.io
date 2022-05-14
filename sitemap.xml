@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eduardheller.github.io/about/</loc>
+  </url><url>
     <loc>https://eduardheller.github.io/authors/</loc>
   </url><url>
     <loc>https://eduardheller.github.io/categories/</loc>
   </url><url>
+    <loc>https://eduardheller.github.io/contact/</loc>
+  </url><url>
     <loc>https://eduardheller.github.io/</loc>
   </url><url>
     <loc>https://eduardheller.github.io/series/</loc>
+  </url><url>
+    <loc>https://eduardheller.github.io/skills/</loc>
   </url><url>
     <loc>https://eduardheller.github.io/tags/</loc>
   </url>
