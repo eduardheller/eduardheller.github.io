@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vr on Eduard Heller</title>
+    <link>https://eduardheller.github.io/categories/vr/</link>
+    <description>Recent content in vr on Eduard Heller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardheller.github.io/categories/vr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replay-System in a Multi-User VR-Environment</title>
+      <link>https://eduardheller.github.io/projects/replaysystem/</link>
+      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/replaysystem/</guid>
+      <description>Technologies: Unity3d Languages: C#  In my master&amp;rsquo;s thesis I had to develop a replay system in Unity3d for the already developed framework from my time as a research assistant. Above all, the system should work in a multiplayer environment. The challenge was to develop a deterministic replay system that can contain multiple timelines. The timelines each contain a gameplay of a gaming session. These can be saved, loaded and played back.</description>
+    </item>
+    
+    <item>
+      <title>Multi-User Virtual Reality Prototype</title>
+      <link>https://eduardheller.github.io/projects/epicsave/</link>
+      <pubDate>Sat, 23 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/epicsave/</guid>
+      <description>Technologies: Unity3d, Virtual Reality Languages: C#  During my work as a research assistant, we developed a virtual reality framework in Unity3d as a team of six and built a prototype from it.In the scenario, you play a paramedic and have the task of rescuing a child suffering from anaphylactic shock. My responsibilities were the architecture, design and implementation of the virtual reality interactions and network programming of the framework.</description>
+    </item>
+    
+  </channel>
+</rss>

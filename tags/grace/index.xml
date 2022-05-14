@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grace on Eduard Heller</title>
+    <link>https://eduardheller.github.io/tags/grace/</link>
+    <description>Recent content in grace on Eduard Heller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardheller.github.io/tags/grace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GRACE Visualization</title>
+      <link>https://eduardheller.github.io/projects/gracevisualization/</link>
+      <pubDate>Sat, 22 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/gracevisualization/</guid>
+      <description>Technologies: OpenGL, Swing Languages: Java  The GRACE visualization software is about the visualization of satellite data that depicts the gravity of the earth. The data was mapped using color, where red means a lot of gravity and blue means little. In addition, depending on gravity, the vertices adapt. Almost 10 years of data were used for visualization, which can be animated via a time-lapse.</description>
+    </item>
+    
+  </channel>
+</rss>

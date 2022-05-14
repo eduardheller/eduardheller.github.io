@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Game on Eduard Heller</title>
+    <link>https://eduardheller.github.io/categories/game/</link>
+    <description>Recent content in Game on Eduard Heller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardheller.github.io/categories/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terminal: The Network</title>
+      <link>https://eduardheller.github.io/projects/terminal/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/terminal/</guid>
+      <description>Technologies: Unity3d Languages: C#  The Terminal: Network has been a hobby project of mine, which is a hacking simulation in a rather dark environment. In this game the player is guided mainly by the console. The player has to fight through different servers to reach the goal and hack servers by solving puzzles in a 3D environment. A robot, controlled by the player, has to solve the puzzles in a programming language similar to BASIC.</description>
+    </item>
+    
+    <item>
+      <title>Battle of the Throne</title>
+      <link>https://eduardheller.github.io/projects/battle-of-the-throne/</link>
+      <pubDate>Sun, 05 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eduardheller.github.io/projects/battle-of-the-throne/</guid>
+      <description> Technologies: OpenGL, GLSL Languages: C#  Battle of the Thrones is a 3D-Towerdefense game made in C# and OpenGL. This game has one level with multiple waves, enemies and ends with a boss. It was a solo project in which I created my own engine and GLSL shaders. It supports:
+ shadow mapping/cascade shadow mapping view frustum culling water refraction/reflection stack based GUI instance based particles distance field text rendering  </description>
+    </item>
+    
+  </channel>
+</rss>

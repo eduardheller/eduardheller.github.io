@@ -2,20 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://eduardheller.github.io/categories/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/categories/computergraphics/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/tags/computergraphics/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/categories/game/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/tags/game/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/projects/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/tags/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/projects/terminal/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/categories/visualization/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/tags/visualization/</loc>
+    <lastmod>2020-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/projects/battle-of-the-throne/</loc>
+    <lastmod>2020-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/tags/replay/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/categories/replay/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/projects/replaysystem/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/tags/virtual-reality/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/categories/virtual-reality/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/tags/vr/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/categories/vr/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/projects/epicsave/</loc>
+    <lastmod>2019-02-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/tags/grace/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/categories/grace/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/projects/gracevisualization/</loc>
+    <lastmod>2018-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/categories/lindenmayer/</loc>
+    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/tags/lindenmayer/</loc>
+    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eduardheller.github.io/projects/lindenmayer-systems/</loc>
+    <lastmod>2017-09-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eduardheller.github.io/about/</loc>
   </url><url>
     <loc>https://eduardheller.github.io/authors/</loc>
   </url><url>
-    <loc>https://eduardheller.github.io/categories/</loc>
-  </url><url>
     <loc>https://eduardheller.github.io/contact/</loc>
   </url><url>
-    <loc>https://eduardheller.github.io/</loc>
+    <loc>https://eduardheller.github.io/resume/</loc>
   </url><url>
     <loc>https://eduardheller.github.io/series/</loc>
   </url><url>
     <loc>https://eduardheller.github.io/skills/</loc>
-  </url><url>
-    <loc>https://eduardheller.github.io/tags/</loc>
   </url>
 </urlset>

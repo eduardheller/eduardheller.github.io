@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eduard Heller</title>
-    <link>https://eduardheller.github.io/</link>
-    <description>Recent content on Eduard Heller</description>
+    <title>visualization on Eduard Heller</title>
+    <link>https://eduardheller.github.io/tags/visualization/</link>
+    <description>Recent content in visualization on Eduard Heller</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardheller.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardheller.github.io/tags/visualization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terminal: The Network</title>
       <link>https://eduardheller.github.io/projects/terminal/</link>
@@ -60,51 +60,6 @@
       
       <guid>https://eduardheller.github.io/projects/lindenmayer-systems/</guid>
       <description>Technologies: OpenGL, GLSL, QT Languages: C++  During my bachelor thesis I developed software for the generation and visualization of certain plants with stochastic Lindenmayer systems. As a result, you can create and export randomized plants there using certain strings (known as turtles). The generation itself is fully parameterizable (like thickness and vertex count) and the textures can be set for the leaves. For development I used C++, QT and OpenGL.</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://eduardheller.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/about/</guid>
-      <description>Hello, I&#39;m Eduard Heller and I&#39;m currently working as a software developer in Hannover, Germany. I started programming when I was 12 years old and became passionate about game development. The very first programming language I used was Dark Basic. A few months later I switched to Delphi and started my first finished game, a topdown 2D RPG. On this project I learned a lot about game design. I switched to C++ and learned a lot of principles about how a computer works.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://eduardheller.github.io/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/contact/</guid>
-      <description>NameEmailMessageSendEduard Hellereduard.heller.89@gmail.com+49 1590 1368555GithubXingLinkedIn</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://eduardheller.github.io/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/resume/</guid>
-      <description>Education 2016-2020 M.Sc, Applied Computer Science; Hochschule Hannover Thesis title: Replay-Systems in a Multi-User Virtual Reality-Environment 2013-2016 B.Sc, Applied Computer Science; Hochschule Hannover Thesis title: Stochastic Lindenmayer systems for representation of plants 2010-2013 B.Sc, Mathematics (canceled); Leibniz Universität Hannover   Work 2020-present Full-Stack Developer; VHV Gruppe Development of backend applications, microservices and frontend webapps Technologies: Spring Boot, Angular, React, Grafana, InspectIT, Kibana 2018-2019 Research associate in the field of serious games and virtual reality; Hochschule Hannover Publication: EPICSAVE Lifesaving Decisions - a Collaborative VR Training Game Sketch for Paramedics 2017-2018 Student assistant in the field of serious games and virtual reality; Hochschule Hannover 2017 Tutor for computer graphics; Hochschule Hannover *-Today: Several completed private projects over the years  </description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>https://eduardheller.github.io/skills/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/skills/</guid>
-      <description>Programming LanguagesC#, JavaC++, Javascript, Typescript, SQL, HTML, CSSGLSL, HTTPC, Python, x86 AssemblySoftware/ToolsVersion Control: Git, Bitbucket, Gitlab
-IDE: IntelliJ, Riders, Visual Studio, Eclipse
-Documentation: Confluence, Jira
-Deployment: CI/Jenkins
-Testing: ReadyApi
-Design: Adobe Photoshop
-3D Modelling: Autodesk 3dsMax, Blender
-Software Archiecture StylesArchitecture Principles: SOLID, MV-Patterns, State-Machine
-Patterns: Inversion of Control, Strategy, Observer, &amp;hellip;
-Testing: Unit Testing with JUnit, Spock (groovy) and NUnit</description>
     </item>
     
   </channel>
