@@ -1,83 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on eduard heller</title>
+    <title>Categories on Eduard Heller</title>
     <link>https://eduardheller.github.io/categories/</link>
-    <description>Recent content in Categories on eduard heller</description>
+    <description>Recent content in Categories on Eduard Heller</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eduardheller.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Computergraphics</title>
-      <link>https://eduardheller.github.io/categories/computergraphics/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/categories/computergraphics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>virtual reality</title>
-      <link>https://eduardheller.github.io/categories/virtual-reality/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/categories/virtual-reality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Visualization</title>
-      <link>https://eduardheller.github.io/categories/visualization/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/categories/visualization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>vr</title>
-      <link>https://eduardheller.github.io/categories/vr/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/categories/vr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>grace</title>
-      <link>https://eduardheller.github.io/categories/grace/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/categories/grace/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lindenmayer</title>
-      <link>https://eduardheller.github.io/categories/lindenmayer/</link>
-      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/categories/lindenmayer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>https://eduardheller.github.io/categories/game/</link>
-      <pubDate>Wed, 02 Aug 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/categories/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image</title>
-      <link>https://eduardheller.github.io/categories/image/</link>
-      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://eduardheller.github.io/categories/image/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="https://eduardheller.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
