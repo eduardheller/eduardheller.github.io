@@ -86,7 +86,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/resume/</guid>
-      <description>Education 2016-2020 M.Sc, Applied Computer Science; Hochschule Hannover Thesis title: Replay-Systems in a Multi-User Virtual Reality-Environment 2013-2016 B.Sc, Applied Computer Science; Hochschule Hannover Thesis title: Stochastic Lindenmayer systems for representation of plants 2010-2013 B.Sc, Mathematics (canceled); Leibniz Universität Hannover   Work 2020-present Full-Stack Developer; VHV Gruppe Development of backend applications, microservices and frontend webapps Technologies: Spring Boot, Angular, React, Grafana, InspectIT, Kibana 2018-2019 Research associate in the field of serious games and virtual reality; Hochschule Hannover Publication: EPICSAVE Lifesaving Decisions - a Collaborative VR Training Game Sketch for Paramedics 2017-2018 Student assistant in the field of serious games and virtual reality; Hochschule Hannover 2017 Tutor for computer graphics; Hochschule Hannover *-Today: Several completed private projects over the years  </description>
+      <description>CV DownloadYou can download my CV in Englisch or in German. Education 2016-2020 M.Sc, Applied Computer Science; Hochschule Hannover Thesis title: Replay-Systems in a Multi-User Virtual Reality-Environment 2013-2016 B.Sc, Applied Computer Science; Hochschule Hannover Thesis title: Stochastic Lindenmayer systems for representation of plants 2010-2013 B.Sc, Mathematics (canceled); Leibniz Universität Hannover   Work 2020-present Full-Stack Developer; VHV Gruppe Development of backend applications, microservices and frontend webapps Technologies: Spring Boot, Angular, React, Grafana, InspectIT, Kibana 2018-2019 Research associate in the field of serious games and virtual reality; Hochschule Hannover Publication: EPICSAVE Lifesaving Decisions - a Collaborative VR Training Game Sketch for Paramedics 2017-2018 Student assistant in the field of serious games and virtual reality; Hochschule Hannover 2017 Tutor for computer graphics; Hochschule Hannover *-Today: Several completed private projects over the years  </description>
     </item>
     
     <item>
@@ -95,14 +95,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eduardheller.github.io/skills/</guid>
-      <description>Programming LanguagesC#, JavaC++, Javascript, Typescript, SQL, HTML, CSSGLSL, HTTPC, Python, x86 AssemblySoftware/ToolsVersion Control: Git, Bitbucket, Gitlab
+      <description>Programming LanguagesC#, JavaC++, Javascript, Typescript, SQL, HTML, CSSGLSL, PythonC, x86 AssemblySoftware/ToolsVersion Control: Git, Bitbucket, Gitlab
 IDE: IntelliJ, Riders, Visual Studio, Eclipse
 Documentation: Confluence, Jira
 Deployment: CI/Jenkins
 Testing: ReadyApi
 Design: Adobe Photoshop
 3D Modelling: Autodesk 3dsMax, Blender
-Software Archiecture StylesArchitecture Principles: SOLID, MV-Patterns, State-Machine
+Software Architecture StylesArchitecture Principles: SOLID, MV-Patterns, State-Machine
 Patterns: Inversion of Control, Strategy, Observer, &amp;hellip;
 Testing: Unit Testing with JUnit, Spock (groovy) and NUnit</description>
     </item>
